@@ -38,21 +38,21 @@
 		DA4642C7143AA27500CBACD2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DA4642C9143AA27500CBACD2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DA4642CB143AA27500CBACD2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DA4642CF143AA27500CBACD2 /* test2GIT-Info.plist */ = {isa = PBXFileReference; path = "test2GIT-Info.plist"; sourceTree = "<group>"; };
+		DA4642CF143AA27500CBACD2 /* test2GIT-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test2GIT-Info.plist"; sourceTree = "<group>"; };
 		DA4642D1143AA27500CBACD2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DA4642D3143AA27500CBACD2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DA4642D5143AA27500CBACD2 /* test2GIT-Prefix.pch */ = {isa = PBXFileReference; path = "test2GIT-Prefix.pch"; sourceTree = "<group>"; };
-		DA4642D6143AA27500CBACD2 /* PsAppDelegate.h */ = {isa = PBXFileReference; path = PsAppDelegate.h; sourceTree = "<group>"; };
+		DA4642D5143AA27500CBACD2 /* test2GIT-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "test2GIT-Prefix.pch"; sourceTree = "<group>"; };
+		DA4642D6143AA27500CBACD2 /* PsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PsAppDelegate.h; sourceTree = "<group>"; };
 		DA4642D7143AA27500CBACD2 /* PsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PsAppDelegate.m; sourceTree = "<group>"; };
 		DA4642DA143AA27500CBACD2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		DA4642DD143AA27500CBACD2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		DA4642DF143AA27500CBACD2 /* PsViewController.h */ = {isa = PBXFileReference; path = PsViewController.h; sourceTree = "<group>"; };
+		DA4642DF143AA27500CBACD2 /* PsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PsViewController.h; sourceTree = "<group>"; };
 		DA4642E0143AA27500CBACD2 /* PsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PsViewController.m; sourceTree = "<group>"; };
 		DA4642E7143AA27500CBACD2 /* test2GITTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test2GITTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA4642E8143AA27500CBACD2 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		DA4642F0143AA27500CBACD2 /* test2GITTests-Info.plist */ = {isa = PBXFileReference; path = "test2GITTests-Info.plist"; sourceTree = "<group>"; };
+		DA4642F0143AA27500CBACD2 /* test2GITTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "test2GITTests-Info.plist"; sourceTree = "<group>"; };
 		DA4642F2143AA27500CBACD2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DA4642F4143AA27500CBACD2 /* test2GITTests.h */ = {isa = PBXFileReference; path = test2GITTests.h; sourceTree = "<group>"; };
+		DA4642F4143AA27500CBACD2 /* test2GITTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test2GITTests.h; sourceTree = "<group>"; };
 		DA4642F5143AA27500CBACD2 /* test2GITTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test2GITTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
